@@ -32,6 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### 本项目生成代码的位置忽略 ###
+### ?????????????λ?ú??? ###
 /src/main/java/com/ibeetlcodegen/
 /src/main/resources/sql/
+/src/main/resources/application.yml
